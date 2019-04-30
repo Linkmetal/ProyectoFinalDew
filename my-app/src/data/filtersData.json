@@ -1,0 +1,64 @@
+[
+    {
+        "category": "Móviles",
+        "ebay": 9355,
+        "subcategory": [
+            {
+                "name": "Samsung",
+                "id": ""
+            },
+            {
+                "name": "Apple",
+                "id": ""
+            },
+            {
+                "name": "Xiaomi",
+                "id": ""
+            },
+            {
+                "name": "Huawei",
+                "id": ""
+            }
+        ]
+    },
+    {
+        "category": "Relojes",
+        "ebay": 14324,
+        "subcategory": [
+            {
+                "name": "Lotus",
+                "id": ""
+            },
+            {
+                "name": "Casio",
+                "id": ""
+            },
+            {
+                "name": "Rolex",
+                "id": ""
+            }
+        ]
+    },
+    {
+        "category": "Tablets",
+        "ebay": 171485,
+        "subcategory": [
+            {
+                "name": "Samsung",
+                "id": ""
+            },
+            {
+                "name": "Apple",
+                "id": ""
+            },
+            {
+                "name": "Xiaomi",
+                "id": ""
+            },
+            {
+                "name": "Huawei",
+                "id": ""
+            }
+        ]
+    }
+]
